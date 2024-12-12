@@ -36,7 +36,7 @@ gcc csv_mysql_optimizer.c -o csv_mysql_optimizer
 ## Usage
 
 ```bash
-./csv_mysql_optimizer input.csv
+cleancsv input.csv
 ```
 
 The program will:
