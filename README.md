@@ -17,6 +17,10 @@ A lightweight C tool that processes CSV files to make them compatible with MySQL
 - Creates an optimized output file with the original filename + '_mysql.csv' suffix
 - Displays the first row of processed data for verification
 
+## Install
+- Download the executable file from the Releases section (right-hand menu of Github page)
+- Edit your System Path to include the directory where the .exe is stored
+  
 ## Building
 
 ### Windows
