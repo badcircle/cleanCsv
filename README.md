@@ -30,7 +30,7 @@ gcc csv_mysql_optimizer.c -o csv_mysql_optimizer.exe
 
 ### Linux/MacOS
 ```bash
-gcc csv_mysql_optimizer.c -o csv_mysql_optimizer
+gcc cleancsv.c -o cleancsv
 ```
 
 ## Usage
