@@ -25,7 +25,7 @@ A lightweight C tool that processes CSV files to make them compatible with MySQL
 
 ### Windows
 ```bash
-gcc csv_mysql_optimizer.c -o csv_mysql_optimizer.exe
+gcc cleancsv.c -o cleancsv.exe
 ```
 
 ### Linux/MacOS
